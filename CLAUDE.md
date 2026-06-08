@@ -8,7 +8,7 @@ This is a single-file HTML catalog viewer for a carpentry business (marcenaria).
 
 ## Running
 
-Open `catalogo-marcenaria.html` directly in a browser. All assets (Google Fonts) are loaded from CDN; images must reside in the `imagens/` folder alongside the HTML file.
+Open `index.html` directly in a browser. All assets (Google Fonts) are loaded from CDN; images must reside in the `imagens/` folder alongside the HTML file.
 
 ## Architecture
 
